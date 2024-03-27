@@ -1,0 +1,4 @@
+/Users/mehmeterenturanboy/Desktop/kinexon/build/CMakeFiles/rtls_simulator.dir
+/Users/mehmeterenturanboy/Desktop/kinexon/build/CMakeFiles/subscriber.dir
+/Users/mehmeterenturanboy/Desktop/kinexon/build/CMakeFiles/edit_cache.dir
+/Users/mehmeterenturanboy/Desktop/kinexon/build/CMakeFiles/rebuild_cache.dir
